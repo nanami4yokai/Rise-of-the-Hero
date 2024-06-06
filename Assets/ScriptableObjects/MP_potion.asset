@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2b837dbcfc3e4f429e5f46051cf9387, type: 3}
+  m_Name: MP_potion
+  m_EditorClassIdentifier: 
+  type: 2
+  typeCategory: 2
+  actionType: 5
+  range: {x: 5, y: 4}
+  stackable: 1
+  image: {fileID: 21300000, guid: ae4f89d0da71c9442a32d8421999c9d7, type: 3}
+  itemName: Mana Potion
+  dropChance: 100
+  equipSlot: 0

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Loot
+  - Obstacle
+  - PlayerSpawn
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tileset
+  - Water
+  - UI
+  - Player
+  - Minimaap
+  - Light
+  - Interactive
+  - Tileset_details
+  - Enemies
+  - Loot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tileset
+    uniqueID: 2948544489
+    locked: 0
+  - name: Tileset_details
+    uniqueID: 3945622801
+    locked: 0
+  - name: Interactive
+    uniqueID: 805436581
+    locked: 0
+  - name: Loot
+    uniqueID: 3634680089
+    locked: 0
+  - name: Enemies
+    uniqueID: 2675059077
+    locked: 0
+  - name: Player
+    uniqueID: 1207933963
+    locked: 0
+  - name: Light
+    uniqueID: 1648587631
+    locked: 0
+  - name: Minimaap
+    uniqueID: 3479506183
+    locked: 0
