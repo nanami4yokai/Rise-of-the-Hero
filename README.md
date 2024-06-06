@@ -6,6 +6,8 @@ YouTube link with the playthrough of the game: https://youtu.be/2y6RPrk7LKw?si=z
 
 WebGL build of the game: https://nanami4yokai.github.io/Rise-of-the-Hero-_-WebGL/
 
+Please enter full sceeen mode for a better experience :)
+
 --------------------------------------------------------------------------------------
 
 Blog Post 1: Roll-a-Ball: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Roll-a-Ball.md
