@@ -14,13 +14,13 @@ Blog Post 1: Roll-a-Ball: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/
 
 Blog Post 2: GDD: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/GDD.md
 
-Blog Post 3: Dev update 1: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog%20Post%203%3A%20Dev%20update%201.md
+Blog Post 3: Dev update 1: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog_Post_3_Dev_update_1.md
 
-Blog Post 4: Dev update 2: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog%20Post%204%3A%20Dev%20update%202.md
+Blog Post 4: Dev update 2: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog_Post_4_Dev_update_2.md
 
-Blog Post 5: Dev update 3: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog%20Post%205%3A%20Dev%20update%203.md
+Blog Post 5: Dev update 3: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog_Post_5_Dev_update_3.md
 
-Blog Post 6: Final Showcase: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog%20Post%206%3A%20Final%20Showcase.md
+Blog Post 6: Final Showcase: https://github.com/nanami4yokai/Rise-of-the-Hero/blob/main/Blog_Post_6_Final_Showcase.md
 
 --------------------------------------------------------------------------------------
 
